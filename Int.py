@@ -3,6 +3,7 @@ name= input("What's your name? ").strip().title()
 
 
 #Split user's name intro first name and last name
+#dummy
 first, last =name.split(" ")
 
 #Say hello to user
